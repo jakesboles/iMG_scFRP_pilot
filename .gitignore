@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+data/
+*.pdf
+*.pptx
+*.png
+logs/
